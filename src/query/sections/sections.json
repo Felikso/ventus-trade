@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "okna",
+    "content": "Pomiar, wycena, zamówienie, montaż produktów stolarki okiennej.",
+    "href": "https://www.okna.ventus-trade.pl/",
+    "img": "./images/okna.jpg",
+    "style": "",
+    "z": "1"
+  },
+    {
+    "id": "2",
+    "title": "auta",
+    "content": "Sprzedaż pojazdów oraz urządzeń używanych.",
+    "href": "https://www.auta.ventus-trade.pl/",
+    "img": "./images/auta.jpg",
+    "style": "",
+    "z": "2"
+  },
+    {
+    "id": "3",
+    "title": "web",
+    "content": "Usługi programistyczne. Sekcja dostępna już wkrótce.",
+    "href": "#",
+    "img": "./images/web.jpg",
+    "style": "",
+    "z": "1"
+  }
+]

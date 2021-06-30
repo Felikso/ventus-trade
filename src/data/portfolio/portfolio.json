@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "first",
+        "mobile": "./first/mobile/1.jpg",
+        "device": "./first/device/1.jpg",
+        "description": "lorem ipsum"
+    },
+    {
+        "id": 2,
+        "name": "second",
+        "mobile": "./second/mobile/1.jpg",
+        "device": "./second/device/1.jpg",
+        "description": "lorem ipsum"
+    },
+    {
+        "id": 3,
+        "name": "third",
+        "mobile": "./third/mobile/1.jpg",
+        "device": "./third/device/1.jpg",
+        "description": "lorem ipsum"
+    }
+]

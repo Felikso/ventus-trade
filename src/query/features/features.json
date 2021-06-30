@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "dywersyfikacja",
+    "short": "Dywersyfikacja to jedna z naszych trzech priorytetowych koncepcji, którymi kierujemy się w tworzeniu polityki naszego Przedsiębiorstwa.",
+    "content": "Świadome rozdzielanie kierunków działalności umożliwia nabywanie zróżnicowanej wiedzy oraz doświadczenia, których efektem może stać się wytworzenie wyspecjalizowanych umiejętności o wzbogaconej strukturze. Dzięki temu połączeniu Nabywca jest zdolny uzyskać efekt wykraczający ponad jego dotychczasowe oczekiwania.",
+    "href": "#",
+    "img": "./images/dywersyfikacja.jpg",
+    "style": "",
+    "z": "1"
+  },
+    {
+    "id": "2",
+    "title": "innowacja",
+    "short": "Innowacja to jedna z naszych trzech priorytetowych koncepcji, którymi kierujemy się w tworzeniu polityki naszego Przedsiębiorstwa.",
+    "content": "Istotą naszych działań jest wprowadzanie stałych ulepszeń, obejmujących procesy oraz funkcje organizacyjne. Ważne staje się generowanie rozmaitych pomysłów, których efektem może stać się kluczowa wartość dla Nabywcy oraz Usługodawcy.",
+    "href": "#",
+    "img": "./images/innowacja.jpg",
+    "style": "",
+    "z": "2"
+  },
+    {
+    "id": "3",
+    "title": "wartość",
+    "short": "Wartość to jedna z naszych trzech priorytetowych koncepcji, którymi kierujemy się w tworzeniu polityki naszego Przedsiębiorstwa.",
+    "content": "Interpretujemy ją jako zasady, którymi kierujemy się w Polityce naszego Przedsiębiorstwa, jak również istotny efekt, wywierający wpływ na doświadczenie Klienta. Fundamentem naszej filozofii jest teza, iż prawdziwą wartością jest rezultat wywierający pozytywne oddziaływanie dla każdej ze stron transakcji.",
+    "href": "#",
+    "img": "./images/wartość.jpg",
+    "style": "",
+    "z": "1"
+  }
+]
