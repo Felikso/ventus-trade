@@ -25,6 +25,8 @@ module.exports = {
       options: {
         https: true,
         www: true,
+        SymLinksIfOwnerMatch: true,
+        host: 'www.ventus-trade.pl',
       },
     },
     'gatsby-plugin-styled-components',
