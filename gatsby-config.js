@@ -20,6 +20,13 @@ module.exports = {
     phoneCode: config.contact.phoneCode,
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-htaccess',
+      options: {
+        https: true,
+        www: true,
+      },
+    },
     'gatsby-plugin-styled-components',
     {
       resolve: 'gatsby-plugin-manifest',
